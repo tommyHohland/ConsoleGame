@@ -1,0 +1,7 @@
+C:\Users\podar\source\repos\pm01_rpg\pm01_rpg\bin\Debug\pm01_rpg.exe.config
+C:\Users\podar\source\repos\pm01_rpg\pm01_rpg\bin\Debug\pm01_rpg.exe
+C:\Users\podar\source\repos\pm01_rpg\pm01_rpg\bin\Debug\pm01_rpg.pdb
+C:\Users\podar\source\repos\pm01_rpg\pm01_rpg\obj\Debug\pm01_rpg.csprojAssemblyReference.cache
+C:\Users\podar\source\repos\pm01_rpg\pm01_rpg\obj\Debug\pm01_rpg.csproj.CoreCompileInputs.cache
+C:\Users\podar\source\repos\pm01_rpg\pm01_rpg\obj\Debug\pm01_rpg.exe
+C:\Users\podar\source\repos\pm01_rpg\pm01_rpg\obj\Debug\pm01_rpg.pdb
